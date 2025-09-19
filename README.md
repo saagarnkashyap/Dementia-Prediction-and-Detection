@@ -16,7 +16,7 @@ Key objectives:
 
 ## 📖 References
 - [ADNI Dataset](https://adni.loni.usc.edu/)
-- Alzheimer MRI 4-classes dataset (OAISIS)
+- [Alzheimer MRI 4-classes dataset (OAISIS)](https://sites.wustl.edu/oasisbrains/)
 - Related works on CNNs and ViTs in medical imaging
 
 ---
